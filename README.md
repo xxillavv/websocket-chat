@@ -38,7 +38,7 @@ chat/
 ### 1. Clone the repository
  
 ```bash
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/xxillavv/chat-app.git
 cd chat-app
 ```
  
@@ -116,7 +116,7 @@ type Message = {
  
 ## 🧑‍💻 Author
  
-Built by [Your Name](https://github.com/your-username)
+Built by [Vladyslav](https://github.com/xxillavv)
  
 ---
  
